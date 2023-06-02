@@ -1,8 +1,8 @@
 SPEC_FILE_NAME:
-spec-core/account/active/login_via_username_password_spec.rb
-./spec-core/account/active/login_via_username_password_spec.rb
-./spec-core/account/active/free_space_spec.rb
-spec-core/account/active/free_space_spec.rb
+- spec-core/account/active/login_via_username_password_spec.rb
+- ./spec-core/account/active/login_via_username_password_spec.rb
+- ./spec-core/account/active/free_space_spec.rb
+- spec-core/account/active/free_space_spec.rb
 
 RUN_NUMBER:
 - 1
